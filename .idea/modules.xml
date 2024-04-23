@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/designPaterns.iml" filepath="$PROJECT_DIR$/.idea/designPaterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/behaviorPatterns/strategy/strategy.iml" filepath="$PROJECT_DIR$/behaviorPatterns/strategy/strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavior/strategy/strategy.iml" filepath="$PROJECT_DIR$/behavior/strategy/strategy.iml" />
     </modules>
   </component>
 </project>
