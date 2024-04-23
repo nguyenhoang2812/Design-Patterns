@@ -6,7 +6,7 @@
 
 
 ⬛️Structure patterns 
-+ Decorator:Đối tượng sẽ được gán thêm nhiều chức năng hoặc nhiều thành phần (trà sữa original + trân trâu + pudding,...) 
++ Decorator:Đối tượng sẽ được gán thêm nhiều chức năng hoặc nhiều thành phần (trà sữa original + trân châu + pudding,...) 
 
 + 
 
