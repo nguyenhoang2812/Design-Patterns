@@ -1,4 +1,5 @@
 import animal.Animal;
+import animal.Bird;
 import animal.Cat;
 import animal.Dog;
 

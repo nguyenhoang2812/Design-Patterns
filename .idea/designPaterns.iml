@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/creation/singletonPattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/structure/decoratorPattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/creation/factoryMethod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/creation/abstractFactoryMethod" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
