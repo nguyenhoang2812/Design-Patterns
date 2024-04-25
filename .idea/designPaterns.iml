@@ -3,12 +3,13 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/behavior/Observer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/creation/builder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/creation/singletonPattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/structure/decoratorPattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/creation/factoryMethod" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/creation/abstractFactoryMethod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/behavior/command" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/behavior/observer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
